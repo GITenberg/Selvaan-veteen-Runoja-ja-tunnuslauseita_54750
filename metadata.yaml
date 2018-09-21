@@ -1,0 +1,25 @@
+_repo: Selvaan-veteen-Runoja-ja-tunnuslauseita_54750
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Siljo, Juhani
+    birthdate: 1888
+    deathdate: 1918
+    gutenberg_agent_id: '6580'
+    url: http://www.gutenberg.org/2009/agents/6580
+    wikipedia: http://fi.wikipedia.org/wiki/Juhani_Siljo
+description: ''
+gutenberg_issued: '2017-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54750'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry'
+- !lcc 'PH'
+- GITenberg
+title: 'Selvään veteen: Runoja ja tunnuslauseita'
+url: http://www.gutenberg.org/ebooks/54750
